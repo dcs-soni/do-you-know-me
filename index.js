@@ -16,6 +16,14 @@ var questions = [{
 {
   question: "\nWhat am I currently learning? ",
   answer: "JavaScript"
+},
+{
+  question: "\nThe best GURU I've ever got?",
+  answer: "Tanay Pratap"
+},
+{
+  question: "\nWhat do I like the most - Mountains or Beaches?",
+  answer: "Mountains"
 }];
 
 
